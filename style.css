@@ -1,0 +1,105 @@
+
+h1,h2,h3	{
+	text-align: center;
+}
+html{
+	background-color: yellow;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+	 margin-left: -20px;
+	 margin-right: -10px;
+;
+
+}
+
+li{
+	float: left;
+}
+li a { 
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+
+}
+li a:hover {
+	background-color: green;
+	text-align: center;
+	width: 100%;
+}
+ form{
+	text-align: center;
+ }
+.navbar{
+	position: fixed;
+	top: 0;
+	margin: 0;
+	width: 100%;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+.navbar a{
+	display: block;
+	float: left;
+	color: yellow;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+	font-size: 17px;
+	transition: background-color 0.3s, color 0.3s;
+   width: 20%;
+}
+.navbar a:hover {
+	background-color: olive;
+	color: #ecf0f1;
+
+}
+.active-link {
+	float: left;
+	display: block;
+    background-color: #4CAF50;
+    color: white;
+   width: 25% ;
+}
+.heading {
+	padding: 70px;
+	text-align: center;
+	background-color: #e6e451;
+	padding-bottom: 3000%;
+}
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+    height: 2000px;
+    background-color: #e6e451;
+}
+.naw{
+	text-decoration: none;
+	text-align: center;
+}
+.banner{
+	text-align: center;
+}
+.header{
+	text-align: center;
+}
+ul{
+	text-align: center;
+}
+
+
+
+
+
+.het{
+	margin: auto;
+   border: 2px solid;
+   margin-left: 10px;
+}
